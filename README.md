@@ -11,4 +11,6 @@ A remote addition!
 
 And another local line.
 
+A new line for local branch2
+
 And jet another in a local branch

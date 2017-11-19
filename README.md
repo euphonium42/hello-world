@@ -8,3 +8,5 @@ A local addition!
 A remote addition!
 
 And another local line.
+
+And jet another in a local branch

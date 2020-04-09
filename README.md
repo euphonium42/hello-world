@@ -9,4 +9,6 @@ A remote addition!
 
 And another local line.
 
-And jet another in a local branch
+And jet another in a local branch.
+
+Und ein lokaler Satz.

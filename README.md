@@ -16,3 +16,5 @@ Und ein lokaler Satz.
 Und noch ein lokaler Satz!
 
 Und ein "remote" Satz :-)
+
+Und jetzt von VS Code!
